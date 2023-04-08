@@ -1,6 +1,6 @@
 import os
 
-# Remove nsfw words from a dictionary list of 90k words calkled 90k.txt 
+# Remove nsfw words from a dictionary list of 90k words called 90k.txt 
 # here as an example. Removed words are stored in removed.txt.
 
 # set file paths

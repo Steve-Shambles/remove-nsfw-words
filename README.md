@@ -1,9 +1,11 @@
 # remove-nsfw-words
 remove nsfw  words from lists like dictionaries. use case-family word games.
 
-Remove nsfw words from a dictionary list of 90k words calkled 90k.txt here as an example. Removed words are stored in removed.txt.
+
+Remove nsfw words from a dictionary list of 90k words callled 90k.txt here as an example. Removed words are stored in removed.txt.
 
 I found the nsfw list of words here: https://www.cs.cmu.edu/~biglou/resources/bad-words.txt
+
 
 I used this prompt to ask chatgtp to write the simple code, to save time, it worked perfectly first time
 so I left the code untouched and posted here for future reference:

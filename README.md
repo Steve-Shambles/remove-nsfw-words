@@ -1,6 +1,8 @@
 # remove-nsfw-words
 remove nsfw  words from lists like dictionaries. use case-family word games.
 
+Requirements: None
+
 
 Remove nsfw words from a dictionary list of 90k words callled 90k.txt here as an example. Removed words are stored in removed.txt.
 
